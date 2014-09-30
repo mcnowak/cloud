@@ -1,4 +1,4 @@
 cloud
 =====
 
-Cloud Test
+Cloud Test, Laravel 3.0 framework
